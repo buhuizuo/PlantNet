@@ -1,0 +1,7 @@
+package plantNet;
+
+public enum Season {
+SPRING,SUMMER,AUTUMN,WINTER,SPRINGSUMMER,SPRINGAUTUMN,FOURSEASON;
+	
+	
+}
